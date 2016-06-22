@@ -10,7 +10,7 @@
 
 <div id="image"></div>
 
-<?=(new ImageToCss('pacman.png', '#image'))->draw();?>
+<?=(new ImageToCss('pacman.png', '#image'))->draw()?>
 
 </body>
 </html>
