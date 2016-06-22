@@ -18,7 +18,6 @@ class ImageToCss
         $this->x = $size[0];
         $this->y = $size[1];
         $this->elem = $elem;
-        return $this;
     }
 
     public function draw()
